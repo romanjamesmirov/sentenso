@@ -1,0 +1,19 @@
+{
+  "name": "sentenso",
+  "version": "0.0.0",
+  "description": "Learn words by spaced repetition – write ten sentences or groups of synonyms per day",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanjamesmirov/sentenso.git"
+  },
+  "author": "Roman Mirov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romanjamesmirov/sentenso/issues"
+  },
+  "homepage": "https://github.com/romanjamesmirov/sentenso#readme"
+}
